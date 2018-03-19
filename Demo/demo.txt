@@ -1,0 +1,6 @@
+Calendar 2 was available via the official Mac App store and gave extra features to anyone who let the mining code run.
+But users voiced complaints about the software as bugs in it made their machines run slowly.
+There had also been surprise that Apple had allowed the feature to be offered.
+The US tech giant has not commented.
+Calendar 2's creator has now disabled the code, citing complaints and worries about the "ethics" of mining.
+According to the developer Qbix's site, more than 757,000 people use its time-management program - although that figure includes earlier versions of the software that did not include the mining component.
